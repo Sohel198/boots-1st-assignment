@@ -1,0 +1,9 @@
+@media screen and(max-width: 665px){
+    .header-container{
+        flex-direction: column;
+        padding: 15px;
+    }
+    .list-items{
+        flex-direction: column;
+    }
+}
